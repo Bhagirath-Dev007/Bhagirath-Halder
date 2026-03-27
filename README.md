@@ -2,7 +2,7 @@
 
 A modern, high-performance **Frontend Developer Portfolio** showcasing real-world projects, WordPress expertise, and responsive UI development.
 
-🔗 **Live Portfolio:** [https://your-domain.com](https://bhagirathhalder.free.nf/)
+🔗 **Live Portfolio:** [https://bhagirathhalder.free.nf/](https://bhagirathhalder.free.nf/)
 🔗 **GitHub:** https://github.com/Bhagirath-Dev007/
 
 ---
